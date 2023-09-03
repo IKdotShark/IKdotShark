@@ -7,7 +7,7 @@
   <h3>
 <tr><th>Known</th><th>In process</th></tr>
 <tr><td> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="[https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg](https://cdn.simpleicons.org/css3/#1572B6)" alt="css3" width="40" height="40" /> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.simpleicons.org/css3/#1572B6" alt="css3" width="40" height="40" /> </a>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" /> </a>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="html5" width="40" height="40" />
   
