@@ -7,11 +7,15 @@
   <h3>
 <tr><th>Known</th><th>In process</th></tr>
 <tr><td> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="[https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg](https://cdn.simpleicons.org/css3/#1572B6)" alt="css3" width="40" height="40" /> </a>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" /> </a>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="html5" width="40" height="40" />
+  
 </td>
   <td> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-       <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>   
+       <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+       <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+       <a href="https://www.oracle.com/java/" target="_blank"> <img scr="" alt="java" width="40" height="40"> </a> 
   </td></tr>
   </h3> 
 </table>
