@@ -18,7 +18,9 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="margin: 10px" src="https://programacaopratica.com.br/wp-content/uploads/2019/01/c2.png" alt="C" height="50" /></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://sobesednik.net/Gallery/_data/i/upload/2020/04/10/20200410135941-1215f71c-xx.png" alt="Java" height="50" /></a>
+https://www.oracle.com/java/
 </div>
 </td>
 </tr></table>  
