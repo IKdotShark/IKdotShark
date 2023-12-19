@@ -36,3 +36,11 @@
 </tr></table>  
 <br/>  
 
+## Donats
+<div align="center">
+I would be glad to receive any financial support.
+  
+[Donats](https://www.donationalerts.com/r/1kdotshark)
+
+<a href="https://www.donationalerts.com/r/1kdotshark" target="_blank"> <img style="margin: 50px" src="https://static.donationalerts.ru/uploads/qr/11100081/qr_fae0f3c3828395be3f01c1f5ebf0617f.png" alt="CSS3" height="100" /></a> 
+</div>
