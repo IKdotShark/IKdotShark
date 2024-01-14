@@ -16,7 +16,8 @@
 
 ### In process 
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a> 
+<a href="https://www.lua.org" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/lua/#2C2D72" alt="Lua" height="50" /></a>  
 <!--<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>-->
 <a href="https://ubuntu.com" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ubuntu/#E95420" alt="Ubuntu" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
