@@ -9,7 +9,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/css3/#1572B6" alt="CSS3" height="50" /></a> 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" height="50" /></a>
-<a href="https://www.GitHub.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/GitHub/#181717/#A5A5A5" alt="GitHub" height="50" /></a> 
+<a href="https://www.GitHub.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/GitHub/#181717/#A5A5A5" alt="GitHub" height="50" /></a>
+<a href="https://www.markdownguide.org" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/markdown" alt="Markdown" height="50" /></a> 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/adobephotoshop/#31A8FF" alt="Adobe Photoshop" height="50" /></a> 
 </div>
 </td><td valign="top" width="33%">
