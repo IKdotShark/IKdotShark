@@ -12,6 +12,7 @@
 <a href="https://www.GitHub.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/GitHub/#181717/#A5A5A5" alt="GitHub" height="50" /></a>
 <a href="https://www.markdownguide.org" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/markdown" alt="Markdown" height="50" /></a> 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/adobephotoshop/#31A8FF" alt="Adobe Photoshop" height="50" /></a> 
+<a href="https://ubuntu.com" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ubuntu/#E95420" alt="Ubuntu" height="50" /></a>
 </div>
 </td><td valign="top" width="33%">
 
@@ -20,7 +21,6 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a> 
 <a href="https://www.lua.org" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/lua/#2C2D72" alt="Lua" height="50" /></a>  
 <!--<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>-->
-<a href="https://ubuntu.com" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ubuntu/#E95420" alt="Ubuntu" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/C/#A8B9CC/#181717" alt="C" height="50" /></a>
 <a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://sobesednik.net/Gallery/_data/i/upload/2020/04/10/20200410135941-1215f71c-xx.png" alt="Java" height="50" /></a>
