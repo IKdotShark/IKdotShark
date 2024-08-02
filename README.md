@@ -30,7 +30,7 @@
 
 ### ❤ Favorite IDE
 <div align="center">
-<a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" alt="Visual Studio" height="50" /></a>
+<a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio" height="50" /></a>
 <a href="https://atom-editor.cc" target="_blank"><img style="margin: 10px" src="https://github.com/haideralipunjabi/atom-icons/raw/master/svg/social_medium.svg" alt="Atom" height="50" /></a>
 <!--icon atom from: https://github.com/haideralipunjabi/atom-icons -->
 </div>
