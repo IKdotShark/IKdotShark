@@ -19,7 +19,7 @@
 </div>
 </td><td valign="top" width="33%">
 
-### In process 
+### In progress 
 <div align="center">  
 <a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="logo/burpsuite-color.svg" alt="BurpSuit" height="50" /></a> 
 <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/800px-Logo_C_sharp.svg.png" alt="С#" height="50" /></a> 
